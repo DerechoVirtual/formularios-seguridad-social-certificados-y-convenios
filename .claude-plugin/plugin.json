@@ -1,0 +1,25 @@
+{
+  "name": "formularios-seguridad-social-certificados-y-convenios",
+  "version": "1.1.0",
+  "description": "Seguridad Social: certificados, declaraciones y convenios internacionales: 16 formularios revisados el 25-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para acreditar situaciones ante la Seguridad Social: certificados de periodos de actividad (deportistas, ministros de culto…), declaraciones responsables, acuerdos de jubilación parcial y fichas de los convenios bilaterales e internacionales de Seguridad Social. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Seguridad Social: certificados, declaraciones y convenios internacionales · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "seguridad social",
+    "ss-certificados"
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-seguridad-social-certificados-y-convenios"
+}

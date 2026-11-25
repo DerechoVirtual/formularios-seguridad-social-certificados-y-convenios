@@ -1,0 +1,29 @@
+{
+  "name": "formularios-seguridad-social-certificados-y-convenios",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Seguridad Social: certificados, declaraciones y convenios internacionales · España (16 formularios). Para acreditar situaciones ante la Seguridad Social: certificados de periodos de actividad (deportistas, ministros de culto…), declaraciones responsables, acuerdos de jubilación parcial y fichas de los convenios bilaterales e internacionales de Seguridad Social. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-seguridad-social-certificados-y-convenios",
+      "source": "./",
+      "description": "Seguridad Social: certificados, declaraciones y convenios internacionales · España (16 formularios). Para acreditar situaciones ante la Seguridad Social: certificados de periodos de actividad (deportistas, ministros de culto…), declaraciones responsables, acuerdos de jubilación parcial y fichas de los convenios bilaterales e internacionales de Seguridad Social. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "seguridad social",
+        "ss-certificados"
+      ]
+    }
+  ]
+}
